@@ -1,0 +1,56 @@
+﻿@model DSW1_T1_SalazarHerrera_JosueSantiago.Models.Libro
+
+@{
+    ViewData["Title"] = "Registrar libro";
+}
+
+<h2>Registrar nuevo libro</h2>
+
+<form asp-controller="Libro" asp-action="Crear" method="post">
+    @Html.AntiForgeryToken()
+
+    <div asp-validation-summary="ModelOnly"
+         class="text-danger"></div>
+
+    <div class="mb-3">
+        <label asp-for="NombreLibro" class="form-label"></label>
+        <input asp-for="NombreLibro" class="form-control" />
+        <span asp-validation-for="NombreLibro"
+              class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Autor" class="form-label"></label>
+        <input asp-for="Autor" class="form-control" />
+        <span asp-validation-for="Autor"
+              class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="NombreEditorial" class="form-label"></label>
+        <input asp-for="NombreEditorial" class="form-control" />
+        <span asp-validation-for="NombreEditorial"
+              class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="ISDN" class="form-label"></label>
+        <input asp-for="ISDN" class="form-control" />
+        <span asp-validation-for="ISDN"
+              class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">
+        Guardar libro
+    </button>
+
+    <a asp-controller="Libro"
+       asp-action="Index"
+       class="btn btn-secondary">
+        Cancelar
+    </a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

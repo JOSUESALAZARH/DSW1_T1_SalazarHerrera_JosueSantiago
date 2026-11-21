@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mirella\\Documents\\DSW1\\DSW1_T1_SalazarHerrera_JosueSantiago\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{330FE34E-FA76-9B61-DB64-E9104E13C4EF}|DSW1_T1_SalazarHerrera_JosueSantiago.csproj|c:\\users\\mirella\\documents\\dsw1\\dsw1_t1_salazarherrera_josuesantiago\\views\\libro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{330FE34E-FA76-9B61-DB64-E9104E13C4EF}|DSW1_T1_SalazarHerrera_JosueSantiago.csproj|solutionrelative:views\\libro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330FE34E-FA76-9B61-DB64-E9104E13C4EF}|DSW1_T1_SalazarHerrera_JosueSantiago.csproj|c:\\users\\mirella\\documents\\dsw1\\dsw1_t1_salazarherrera_josuesantiago\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330FE34E-FA76-9B61-DB64-E9104E13C4EF}|DSW1_T1_SalazarHerrera_JosueSantiago.csproj|solutionrelative:controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330FE34E-FA76-9B61-DB64-E9104E13C4EF}|DSW1_T1_SalazarHerrera_JosueSantiago.csproj|c:\\users\\mirella\\documents\\dsw1\\dsw1_t1_salazarherrera_josuesantiago\\views\\libro\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{330FE34E-FA76-9B61-DB64-E9104E13C4EF}|DSW1_T1_SalazarHerrera_JosueSantiago.csproj|solutionrelative:views\\libro\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330FE34E-FA76-9B61-DB64-E9104E13C4EF}|DSW1_T1_SalazarHerrera_JosueSantiago.csproj|c:\\users\\mirella\\documents\\dsw1\\dsw1_t1_salazarherrera_josuesantiago\\views\\libro\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{330FE34E-FA76-9B61-DB64-E9104E13C4EF}|DSW1_T1_SalazarHerrera_JosueSantiago.csproj|solutionrelative:views\\libro\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330FE34E-FA76-9B61-DB64-E9104E13C4EF}|DSW1_T1_SalazarHerrera_JosueSantiago.csproj|c:\\users\\mirella\\documents\\dsw1\\dsw1_t1_salazarherrera_josuesantiago\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330FE34E-FA76-9B61-DB64-E9104E13C4EF}|DSW1_T1_SalazarHerrera_JosueSantiago.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mirella\\AppData\\Roaming\\Microsoft\\UserSecrets\\f077ef56-e517-4ed7-9651-3ff900e90848\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330FE34E-FA76-9B61-DB64-E9104E13C4EF}|DSW1_T1_SalazarHerrera_JosueSantiago.csproj|c:\\users\\mirella\\documents\\dsw1\\dsw1_t1_salazarherrera_josuesantiago\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{330FE34E-FA76-9B61-DB64-E9104E13C4EF}|DSW1_T1_SalazarHerrera_JosueSantiago.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330FE34E-FA76-9B61-DB64-E9104E13C4EF}|DSW1_T1_SalazarHerrera_JosueSantiago.csproj|c:\\users\\mirella\\documents\\dsw1\\dsw1_t1_salazarherrera_josuesantiago\\services\\libroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330FE34E-FA76-9B61-DB64-E9104E13C4EF}|DSW1_T1_SalazarHerrera_JosueSantiago.csproj|solutionrelative:services\\libroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330FE34E-FA76-9B61-DB64-E9104E13C4EF}|DSW1_T1_SalazarHerrera_JosueSantiago.csproj|c:\\users\\mirella\\documents\\dsw1\\dsw1_t1_salazarherrera_josuesantiago\\services\\ilibroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330FE34E-FA76-9B61-DB64-E9104E13C4EF}|DSW1_T1_SalazarHerrera_JosueSantiago.csproj|solutionrelative:services\\ilibroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330FE34E-FA76-9B61-DB64-E9104E13C4EF}|DSW1_T1_SalazarHerrera_JosueSantiago.csproj|c:\\users\\mirella\\documents\\dsw1\\dsw1_t1_salazarherrera_josuesantiago\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330FE34E-FA76-9B61-DB64-E9104E13C4EF}|DSW1_T1_SalazarHerrera_JosueSantiago.csproj|solutionrelative:repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330FE34E-FA76-9B61-DB64-E9104E13C4EF}|DSW1_T1_SalazarHerrera_JosueSantiago.csproj|c:\\users\\mirella\\documents\\dsw1\\dsw1_t1_salazarherrera_josuesantiago\\repositories\\ilibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330FE34E-FA76-9B61-DB64-E9104E13C4EF}|DSW1_T1_SalazarHerrera_JosueSantiago.csproj|solutionrelative:repositories\\ilibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330FE34E-FA76-9B61-DB64-E9104E13C4EF}|DSW1_T1_SalazarHerrera_JosueSantiago.csproj|c:\\users\\mirella\\documents\\dsw1\\dsw1_t1_salazarherrera_josuesantiago\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330FE34E-FA76-9B61-DB64-E9104E13C4EF}|DSW1_T1_SalazarHerrera_JosueSantiago.csproj|solutionrelative:models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mirella\\Documents\\DSW1\\DSW1_T1_SalazarHerrera_JosueSantiago\\Views\\Libro\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Libro\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\Mirella\\Documents\\DSW1\\DSW1_T1_SalazarHerrera_JosueSantiago\\Views\\Libro\\Editar.cshtml",
+              "RelativeToolTip": "Views\\Libro\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T22:44:00.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mirella\\Documents\\DSW1\\DSW1_T1_SalazarHerrera_JosueSantiago\\Views\\Libro\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Views\\Libro\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\Mirella\\Documents\\DSW1\\DSW1_T1_SalazarHerrera_JosueSantiago\\Views\\Libro\\Crear.cshtml",
+              "RelativeToolTip": "Views\\Libro\\Crear.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T22:40:28.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mirella\\Documents\\DSW1\\DSW1_T1_SalazarHerrera_JosueSantiago\\Views\\Libro\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Libro\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mirella\\Documents\\DSW1\\DSW1_T1_SalazarHerrera_JosueSantiago\\Views\\Libro\\Index.cshtml",
+              "RelativeToolTip": "Views\\Libro\\Index.cshtml",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAYwHEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T22:36:19.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibroController.cs",
+              "DocumentMoniker": "C:\\Users\\Mirella\\Documents\\DSW1\\DSW1_T1_SalazarHerrera_JosueSantiago\\Controllers\\LibroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LibroController.cs",
+              "ToolTip": "C:\\Users\\Mirella\\Documents\\DSW1\\DSW1_T1_SalazarHerrera_JosueSantiago\\Controllers\\LibroController.cs",
+              "RelativeToolTip": "Controllers\\LibroController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T22:34:30.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mirella\\Documents\\DSW1\\DSW1_T1_SalazarHerrera_JosueSantiago\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mirella\\Documents\\DSW1\\DSW1_T1_SalazarHerrera_JosueSantiago\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T22:32:35.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Mirella\\AppData\\Roaming\\Microsoft\\UserSecrets\\f077ef56-e517-4ed7-9651-3ff900e90848\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\f077ef56-e517-4ed7-9651-3ff900e90848\\secrets.json",
+              "ToolTip": "C:\\Users\\Mirella\\AppData\\Roaming\\Microsoft\\UserSecrets\\f077ef56-e517-4ed7-9651-3ff900e90848\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\f077ef56-e517-4ed7-9651-3ff900e90848\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-21T22:32:04.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mirella\\Documents\\DSW1\\DSW1_T1_SalazarHerrera_JosueSantiago\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Mirella\\Documents\\DSW1\\DSW1_T1_SalazarHerrera_JosueSantiago\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-21T22:29:44.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibroService.cs",
+              "DocumentMoniker": "C:\\Users\\Mirella\\Documents\\DSW1\\DSW1_T1_SalazarHerrera_JosueSantiago\\Services\\LibroService.cs",
+              "RelativeDocumentMoniker": "Services\\LibroService.cs",
+              "ToolTip": "C:\\Users\\Mirella\\Documents\\DSW1\\DSW1_T1_SalazarHerrera_JosueSantiago\\Services\\LibroService.cs",
+              "RelativeToolTip": "Services\\LibroService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T22:28:48.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILibroService.cs",
+              "DocumentMoniker": "C:\\Users\\Mirella\\Documents\\DSW1\\DSW1_T1_SalazarHerrera_JosueSantiago\\Services\\ILibroService.cs",
+              "RelativeDocumentMoniker": "Services\\ILibroService.cs",
+              "ToolTip": "C:\\Users\\Mirella\\Documents\\DSW1\\DSW1_T1_SalazarHerrera_JosueSantiago\\Services\\ILibroService.cs",
+              "RelativeToolTip": "Services\\ILibroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T22:28:26.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mirella\\Documents\\DSW1\\DSW1_T1_SalazarHerrera_JosueSantiago\\Repositories\\LibroRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\LibroRepository.cs",
+              "ToolTip": "C:\\Users\\Mirella\\Documents\\DSW1\\DSW1_T1_SalazarHerrera_JosueSantiago\\Repositories\\LibroRepository.cs",
+              "RelativeToolTip": "Repositories\\LibroRepository.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAwKEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T22:26:04.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mirella\\Documents\\DSW1\\DSW1_T1_SalazarHerrera_JosueSantiago\\Repositories\\ILibroRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ILibroRepository.cs",
+              "ToolTip": "C:\\Users\\Mirella\\Documents\\DSW1\\DSW1_T1_SalazarHerrera_JosueSantiago\\Repositories\\ILibroRepository.cs",
+              "RelativeToolTip": "Repositories\\ILibroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T22:23:52.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Mirella\\Documents\\DSW1\\DSW1_T1_SalazarHerrera_JosueSantiago\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\Mirella\\Documents\\DSW1\\DSW1_T1_SalazarHerrera_JosueSantiago\\Models\\Libro.cs",
+              "RelativeToolTip": "Models\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T22:21:46.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
